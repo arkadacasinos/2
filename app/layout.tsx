@@ -72,7 +72,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className={`${playfair.variable} ${manrope.variable} bg-background`}>
       <head>
-        {/* Здесь можно вставлять дополнительные пользовательские теги */}
+        <meta name="yandex-verification" content="0eecee17ec278a5d" />
         <link rel="canonical" href={SITE_URL} />
         <meta name="theme-color" content="#0c0f1a" />
         <meta name="rating" content="adult" />
